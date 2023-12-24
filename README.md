@@ -27,6 +27,22 @@ Make sure to have port `:3000` available
 Then run:
 
 ```sh
+cargo build
+```
+
+## Run Tests
+
+To Run tests run:
+
+```sh
+cargo test
+```
+
+## Run the project
+
+Terminal:
+
+```sh
 cargo run
 ```
 
