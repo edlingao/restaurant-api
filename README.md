@@ -24,6 +24,8 @@ Or [Click here](https://win.rustup.rs/)
 
 Make sure to have port `:3000` available
 
+Then run:
+
 ```sh
 cargo run
 ```
