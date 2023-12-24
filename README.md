@@ -2,6 +2,12 @@
 
 ## Instalation process
 
+### Install .ENV
+
+```.env
+API_KEY=<This Is Your API Key>
+```
+
 ### Install Rust and Cargo
 
 For Linux, macOS
