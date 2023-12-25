@@ -12,7 +12,7 @@ async fn main() {
 
     let app = router();
 
-    let addr = tokio::net::TcpListener::bind("0.0.0.0:3000")
+    let addr = tokio::net::TcpListener::bind("127.0.0.1:3000")
         .await
         .unwrap();
 
